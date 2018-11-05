@@ -7,8 +7,9 @@ Ruby 2.4.4
 
 ### System dependencies
 
-  Sidekiq
-  Active Storage
+  * Sidekiq
+  * Active Storage
+  * Act As Taggable gem to use tags associated with FileUpload model and allow searching by tags.
   
 ### Configuration
 
